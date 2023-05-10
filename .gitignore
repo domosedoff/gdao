@@ -1,0 +1,11 @@
+#hardhat
+server/node_modules
+server/.env
+server/coverage
+server/coverage.json
+server/typechain
+server/typechain-types
+
+#Hardhat files
+server/cache
+server/artifacts
